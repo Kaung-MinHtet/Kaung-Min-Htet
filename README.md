@@ -88,11 +88,6 @@ A backend system for **CoTruck** that manages the operations of shippers, driver
 - **Platform**: Available on the Play Store.
 - **Role**: Designed and developed APIs for seamless communication between the mobile app and the backend.
 
-### [🌐 Project 8: Ministry of Ethnic Affairs Portal](https://portal.moea.gov.mm/)
-A project developed for the **Ministry of Ethnic Affairs** in Myanmar, offering various services and information management.
-- **Tech Stack**: Laravel, MySQL
-- **Features**: Comprehensive portal for users to access ethnic affairs-related services and information.
-- **Role**: Contributed to backend development and API integrations.
 ---
 
 ## 🚀 What I’m currently learning:
